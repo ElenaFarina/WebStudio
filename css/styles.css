@@ -221,6 +221,7 @@ background-color: var(--main-subtitle-color);
 .filter-btn:hover,
 .filter-btn:focus {
     background-color: var(--hover-color);
+    color: var(--second-btn-color);
 }
 .portfolio-list {
 }
